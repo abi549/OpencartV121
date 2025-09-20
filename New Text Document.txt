@@ -1,0 +1,2 @@
+cd C:\Users\lisas\OneDrive\Desktop\Eclipse Workspace\OpencartV121
+mvn test

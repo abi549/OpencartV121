@@ -1,0 +1,72 @@
+00:13:32.746 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Starting TC001_AccountRegestration_Test
+00:13:33.300 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Clicked on My account
+00:13:34.504 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Clicked on Register link
+00:13:35.345 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Added the information of the user to register
+00:13:36.239 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Validation expected message
+00:13:37.059 [main] INFO  testCases.TC001_AccountRegestration_Test - ***** Test Case Finished1
+00:13:40.202 [main] INFO  testCases.TC002_loginPage - *****Starting the TC002_login page
+00:16:24.519 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lisas\OneDrive\Desktop\Eclipse Workspace\OpencartV121\grouping.xml
+
+00:16:29.451 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Starting TC001_AccountRegestration_Test
+00:16:29.764 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Clicked on My account
+00:16:30.372 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Clicked on Register link
+00:16:31.127 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Added the information of the user to register
+00:16:31.987 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Validation expected message
+00:16:32.675 [main] INFO  testCases.TC001_AccountRegestration_Test - ***** Test Case Finished1
+00:16:35.503 [main] INFO  testCases.TC002_loginPage - *****Starting the TC002_login page
+00:24:27.273 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lisas\OneDrive\Desktop\Eclipse Workspace\OpencartV121\test-output\testng-failed.xml
+
+00:24:31.870 [main] INFO  testCases.TC002_loginPage - *****Starting the TC002_login page
+00:24:33.913 [main] INFO  testCases.TC002_loginPage - *****Finished TC 02 and executed
+00:43:16.646 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lisas\OneDrive\Desktop\Eclipse Workspace\OpencartV121\grouping.xml
+
+00:48:04.980 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lisas\OneDrive\Desktop\Eclipse Workspace\OpencartV121\grouping.xml
+
+00:49:03.785 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lisas\OneDrive\Desktop\Eclipse Workspace\OpencartV121\grouping.xml
+
+00:50:26.883 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lisas\OneDrive\Desktop\Eclipse Workspace\OpencartV121\grouping.xml
+
+00:59:18.230 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lisas\OneDrive\Desktop\Eclipse Workspace\OpencartV121\grouping.xml
+
+01:00:56.886 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lisas\OneDrive\Desktop\Eclipse Workspace\OpencartV121\grouping.xml
+
+01:08:39.621 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lisas\OneDrive\Desktop\Eclipse Workspace\OpencartV121\grouping.xml
+
+01:11:12.352 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lisas\OneDrive\Desktop\Eclipse Workspace\OpencartV121\grouping.xml
+
+01:13:30.992 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lisas\OneDrive\Desktop\Eclipse Workspace\OpencartV121\grouping.xml
+
+01:17:48.929 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lisas\OneDrive\Desktop\Eclipse Workspace\OpencartV121\grouping.xml
+
+01:19:53.087 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Starting TC001_AccountRegestration_Test
+01:20:13.797 [main] ERROR testCases.TC001_AccountRegestration_Test - Test Failed..
+01:25:40.546 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lisas\OneDrive\Desktop\Eclipse Workspace\OpencartV121\grouping.xml
+
+01:25:59.927 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Starting TC001_AccountRegestration_Test
+01:26:00.316 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Clicked on My account
+01:26:01.298 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Clicked on Register link
+01:26:02.468 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Added the information of the user to register
+01:26:23.070 [main] ERROR testCases.TC001_AccountRegestration_Test - Test Failed..
+01:27:56.062 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lisas\OneDrive\Desktop\Eclipse Workspace\OpencartV121\grouping.xml
+
+01:28:17.825 [main] INFO  testCases.TC002_loginPage - *****Starting the TC002_login page
+01:29:32.956 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lisas\OneDrive\Desktop\Eclipse Workspace\OpencartV121\grouping.xml
+
+01:30:42.301 [main] INFO  testCases.TC002_loginPage - *****Starting the TC002_login page
+01:30:47.552 [main] INFO  testCases.TC002_loginPage - *****Finished TC 02 and executed
+13:43:10.302 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Starting TC001_AccountRegestration_Test

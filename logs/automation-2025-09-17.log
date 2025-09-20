@@ -1,0 +1,50 @@
+22:42:47.553 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+22:42:47.563 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+22:42:47.563 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+22:42:47.563 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+22:44:45.652 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lisas\OneDrive\Desktop\Eclipse Workspace\OpencartV121\grouping.xml"
+22:45:05.860 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lisas\OneDrive\Desktop\Eclipse Workspace\OpencartV121\grouping.xml"
+22:45:06.121 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.Setup(java.lang.String,java.lang.String)[pri:0, instance:null] -1451256544
+22:45:06.121 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+22:45:06.123 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+22:45:06.124 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+22:45:06.124 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+22:45:06.125 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+22:45:06.125 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+22:45:06.125 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+22:45:06.126 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+22:45:06.126 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+22:45:06.132 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.Setup(java.lang.String,java.lang.String)[pri:0, instance:null] -1451256544
+22:45:06.132 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+22:45:06.132 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+22:45:06.132 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+22:45:06.132 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+22:45:06.133 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+22:45:06.133 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+22:45:06.133 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+22:45:06.133 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+22:45:06.133 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+22:45:06.141 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_AccountRegestration_Test.verify_account_registration()[pri:0, instance:testCases.TC001_AccountRegestration_Test@3a0baae5] -1861605714
+22:45:06.141 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC002_loginPage.Verify_login()[pri:0, instance:testCases.TC002_loginPage@503ecb24] -393407863
+22:45:06.141 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+22:45:06.144 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+22:45:06.144 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+22:45:06.144 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+22:45:06.153 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lisas\OneDrive\Desktop\Eclipse Workspace\OpencartV121\grouping.xml
+
+22:45:09.884 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Starting TC001_AccountRegestration_Test
+22:45:10.175 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Clicked on My account
+22:45:10.851 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Clicked on Register link
+22:45:11.624 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Added the information of the user to register
+22:45:12.432 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Validation expected message
+22:45:12.937 [main] INFO  testCases.TC001_AccountRegestration_Test - ***** Test Case Finished1
+22:45:15.452 [main] INFO  testCases.TC002_loginPage - *****Starting the TC002_login page
+22:45:17.486 [main] INFO  testCases.TC002_loginPage - *****Finished TC 02 and executed
+22:46:33.421 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\lisas\OneDrive\Desktop\Eclipse Workspace\OpencartV121\grouping.xml"
+22:46:33.662 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.Setup(java.lang.String,java.lang.String)[pri:0, instance:null] -1451256544
+22:46:33.663 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+22:46:33.665 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+22:46:33.665 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+22:46:33.665 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+22:46:33.667 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191

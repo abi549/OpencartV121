@@ -1,0 +1,56 @@
+22:46:33.669 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+22:46:33.676 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+22:46:33.677 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+22:46:33.677 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+22:46:33.684 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.Setup(java.lang.String,java.lang.String)[pri:0, instance:null] -1451256544
+22:46:33.684 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+22:46:33.684 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+22:46:33.684 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+22:46:33.684 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+22:46:33.686 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+22:46:33.686 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+22:46:33.686 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+22:46:33.686 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+22:46:33.686 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+22:46:33.692 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC001_AccountRegestration_Test.verify_account_registration()[pri:0, instance:testCases.TC001_AccountRegestration_Test@3a0baae5] -1861605714
+22:46:33.692 [main] TRACE org.testng.internal.Graph - [Graph] ADDING NODE TC002_loginPage.Verify_login()[pri:0, instance:testCases.TC002_loginPage@6e950bcf] 115561268
+22:46:33.692 [main] TRACE org.testng.internal.Graph - [Graph] ================ SORTING
+22:46:33.695 [main] TRACE org.testng.internal.Graph - [Graph] =============== DONE SORTING
+22:46:33.695 [main] TRACE org.testng.internal.Graph - [Graph] ====== SORTED NODES
+22:46:33.695 [main] TRACE org.testng.internal.Graph - [Graph] ====== END SORTED NODES
+22:46:33.705 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lisas\OneDrive\Desktop\Eclipse Workspace\OpencartV121\grouping.xml
+
+22:46:37.379 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Starting TC001_AccountRegestration_Test
+22:46:37.668 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Clicked on My account
+22:46:38.173 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Clicked on Register link
+22:46:38.706 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Added the information of the user to register
+22:46:39.436 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Validation expected message
+22:46:39.900 [main] INFO  testCases.TC001_AccountRegestration_Test - ***** Test Case Finished1
+22:46:42.458 [main] INFO  testCases.TC002_loginPage - *****Starting the TC002_login page
+22:46:43.912 [main] INFO  testCases.TC002_loginPage - *****Finished TC 02 and executed
+22:47:13.425 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lisas\OneDrive\Desktop\Eclipse Workspace\OpencartV121\grouping.xml
+
+22:47:16.391 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Starting TC001_AccountRegestration_Test
+22:47:16.750 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Clicked on My account
+22:47:17.334 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Clicked on Register link
+22:47:17.899 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Added the information of the user to register
+22:47:18.651 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Validation expected message
+22:47:19.135 [main] INFO  testCases.TC001_AccountRegestration_Test - ***** Test Case Finished1
+22:47:21.389 [main] INFO  testCases.TC002_loginPage - *****Starting the TC002_login page
+22:47:23.096 [main] INFO  testCases.TC002_loginPage - *****Finished TC 02 and executed
+00:10:24.953 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lisas\OneDrive\Desktop\Eclipse Workspace\OpencartV121\grouping.xml
+
+00:10:31.328 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Starting TC001_AccountRegestration_Test
+00:10:31.858 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Clicked on My account
+00:10:32.509 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Clicked on Register link
+00:10:33.349 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Added the information of the user to register
+00:10:34.085 [main] INFO  testCases.TC001_AccountRegestration_Test - *****Validation expected message
+00:10:34.631 [main] INFO  testCases.TC001_AccountRegestration_Test - ***** Test Case Finished1
+00:10:37.626 [main] INFO  testCases.TC002_loginPage - *****Starting the TC002_login page
+00:10:39.584 [main] INFO  testCases.TC002_loginPage - *****Finished TC 02 and executed
+00:13:17.622 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lisas\OneDrive\Desktop\Eclipse Workspace\OpencartV121\grouping.xml
+
